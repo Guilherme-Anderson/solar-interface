@@ -10,6 +10,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^18.2.3"
+    "electron": "^18.2.4"
+  },
+  "dependencies": {
+    "serialport": "^10.4.0"
   }
 }
